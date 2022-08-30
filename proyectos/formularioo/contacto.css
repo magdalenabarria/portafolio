@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+
+body{
+    background-color: blue;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.titulo{
+	color: yellow;
+}
+.nombre{
+	color: yellow;
+}
+
+.email{
+	color: yellow;
+}
+
+.telefono{
+	color: yellow;
+}
+
+.mensaje{
+	color: yellow;
+}

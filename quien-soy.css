@@ -1,0 +1,15 @@
+body{
+	background-color: #191c32;
+}
+
+.titulo{
+	font-size: 60px;
+	color: yellow;
+}
+
+.container{
+	background-color: aqua;
+}
+p{
+	font-size: 25px;
+}

@@ -1,0 +1,41 @@
+body{
+	background-color: #191c32;
+}
+
+.titulo{
+	font-size: 50px;
+	color: yellow;
+}
+
+.container{
+	width: 100%;
+	border: 30px solid #black;
+	min-height: 300px;
+	display: inline-flex;
+	flex: 1;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.caja1{
+
+	background-color: #1ABC9C;
+	display: inline-flex;
+	width: 23%;
+
+}
+.caja2{
+	background-color: #3380FF;
+	display: inline-flex;
+	width: 23%;
+}
+.caja3{
+	background-color: #C2A3FE;
+	display: inline-flex;
+	width: 23%;
+}
+.caja4{
+	background-color: #FEA3C6;
+	display: inline-flex;
+	width: 23%;
+}
+
